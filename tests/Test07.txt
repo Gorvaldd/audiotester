@@ -1,0 +1,216 @@
+TITLE: Test 7
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test07_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test07_Part01_Question_1.m4a
+CONTEXT: You hear a woman talking about a folk music festival.
+QUESTION: What did she dislike about it?
+A: the way it was organised
+B: some of the performances
+C: the behaviour of the audience
+ANSWER: C
+
+--- 2
+AUDIO: Test07_Part01_Question_2.m4a
+CONTEXT: You hear a TV presenter talking about a programme that's on later tonight.
+QUESTION: What type of programme is it?
+A: a music programme
+B: a documentary
+C: a chat show
+ANSWER: C
+
+--- 3
+AUDIO: Test07_Part01_Question_3.m4a
+CONTEXT: You overhear a teacher talking on the phone.
+QUESTION: Who is she talking to?
+A: a colleague
+B: a student
+C: a parent
+ANSWER: A
+
+--- 4
+AUDIO: Test07_Part01_Question_4.m4a
+CONTEXT: You hear a man talking about pollution.
+QUESTION: He thinks people need to know more about
+A: the proposed solutions.
+B: the effects on humans.
+C: the animals at risk.
+ANSWER: C
+
+--- 5
+AUDIO: Test07_Part01_Question_5.m4a
+CONTEXT: You hear part of an interview with a sportsman.
+QUESTION: What is his sport?
+A: cycling
+B: football
+C: athletics
+ANSWER: A
+
+--- 6
+AUDIO: Test07_Part01_Question_6.m4a
+CONTEXT: On a phone-in consumer programme, you hear a call from a listener.
+QUESTION: What is she doing?
+A: making an apology
+B: asking for advice
+C: justifying her behaviour
+ANSWER: B
+
+--- 7
+AUDIO: Test07_Part01_Question_7.m4a
+CONTEXT: You hear two students discussing the issue of zoos.
+QUESTION: They agree about the need to
+A: conserve rare species of animals.
+B: attract the public to zoos.
+C: keep some zoos open.
+ANSWER: A
+
+--- 8
+AUDIO: Test07_Part01_Question_8.m4a
+CONTEXT: You hear the beginning of a programme.
+QUESTION: What are the presenters going to visit today?
+A: a nature reserve
+B: an interesting shop
+C: a rather unusual house
+ANSWER: B
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear a woman called Mara Barnes talking about the sport of surfing. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test07_Part02_Instructions.m4a | Instructions
+AUDIO: Test07_Part02_Questions.m4a | Recording
+HEADING: Mara Barnes: Surfer
+
+--- 9
+TEXT: Mara says she enjoys feeling totally ___ after her two daily summer training sessions.
+ANSWER: exhausted
+
+--- 10
+TEXT: Out of the water, Mara uses both ___ and stretching as a way of keeping fit.
+ANSWER: yoga
+
+--- 11
+TEXT: During swimming sessions, Mara aims to do her target distance in under ___ minutes.
+ANSWER: fourteen | 14
+
+--- 12
+TEXT: Mara's worse injury happened when her ___ was broken by her surfboard.
+ANSWER: nose
+
+--- 13
+TEXT: Mara mentions that water ___ is less of a problem in her area than it used to be.
+ANSWER: pollution
+
+--- 14
+TEXT: Mara used to suffer from sore ___ when she went surfing.
+ANSWER: ears
+
+--- 15
+TEXT: The largest wave Mara has ever surfed was at a place called ___ in Hawaii.
+ANSWER: Sunset Beach
+
+--- 16
+TEXT: Mara says that she no longer eats either ___ or ___ .
+ANSWER: meat
+ANSWER: fish
+ANY_ORDER: yes
+
+--- 17
+TEXT: Mara says she felt a lot better after only eating ___ for a fortnight.
+ANSWER: fruit
+
+--- 18
+TEXT: If she feels too nervous before a competition, Mara likes to play ___ .
+ANSWER: (a game of) chess
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which company directors are talking about recruiting new members of staff. For questions 19 – 23, choose from the list (A – H) what each speaker looks for most when employing a new member of staff. There are three extra letters which you do not need to use.
+AUDIO: Test07_Part03_Instructions.m4a | Instructions
+AUDIO: Test07_Part03_Questions.m4a | Recording
+A: experience in basic office duties
+B: an ability to work well in a team
+C: an understanding of the latest technology
+D: excellent communication skills
+E: a willingness to work overtime if asked
+F: the initiative to solve problems
+G: prestigious academic qualifications
+H: the ability to be well-organised
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: D
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: F
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: B
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: H
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: C
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a man called Graham Malley, who's a chef and a restaurant owner. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test07_Part04_Instructions.m4a | Instructions
+AUDIO: Test07_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: Why did Graham choose to open a restaurant in a small town?
+A: It was ideal for a relaxed life.
+B: He owned a property there.
+C: It was where his family lived.
+ANSWER: B
+
+--- 25
+QUESTION: For Graham, the only problem of having a restaurant in a small town is that
+A: tourists don't come in large numbers.
+B: it's difficult to keep qualified staff.
+C: there are fewer ingredients available.
+ANSWER: B
+
+--- 26
+QUESTION: What does Graham regard as the most valuable experience during his time at college?
+A: learning to produce business plans
+B: watching professional chefs at work
+C: having to prepare his own meals
+ANSWER: C
+
+--- 27
+QUESTION: According to Graham, which skill distinguishes great chefs from others?
+A: Their dishes are always top quality.
+B: They constantly create new recipes.
+C: They are able to inspire their staff.
+ANSWER: A
+
+--- 28
+QUESTION: Graham says that recently qualified cooks often
+A: lack practical skills for the job.
+B: have unrealistic expectations.
+C: are poorly paid for their efforts.
+ANSWER: B
+
+--- 29
+QUESTION: In what way has Graham changed over the years?
+A: His energy levels have decreased.
+B: He has become more pessimistic.
+C: Financial matters trouble him less.
+ANSWER: A
+
+--- 30
+QUESTION: What does Graham see himself doing in ten years' time?
+A: Running a successful restaurant abroad.
+B: Travelling widely to see the world.
+C: Living a quiet life in a different country.
+ANSWER: C

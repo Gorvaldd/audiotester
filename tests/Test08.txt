@@ -1,0 +1,214 @@
+TITLE: Test 8
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test08_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test08_Part01_Question_1.m4a
+CONTEXT: You hear part of an interview with the conductor of an orchestra.
+QUESTION: What does he say about physical fitness?
+A: He's learnt the value of regular exercise.
+B: It's unusual for conductors to get an injury.
+C: Older conductors need to pay more attention to it.
+ANSWER: A
+
+--- 2
+AUDIO: Test08_Part01_Question_2.m4a
+CONTEXT: You hear part of an interview with an interior designer.
+QUESTION: What does she recommend about picture frames?
+A: Don't waste too much money on specialised glass.
+B: See the frame as part of the cost of your picture.
+C: Try to buy a picture that already has one.
+ANSWER: B
+
+--- 3
+AUDIO: Test08_Part01_Question_3.m4a
+CONTEXT: You hear part of a programme about a new gadget.
+QUESTION: What does the gadget do?
+A: It tells you how healthy food made at home really is.
+B: It allows you to cook food outside of the home.
+C: It keeps homemade food warm.
+ANSWER: C
+
+--- 4
+AUDIO: Test08_Part01_Question_4.m4a
+CONTEXT: You overhear two people talking about a film they've seen.
+QUESTION: What did the man dislike about it?
+A: the pace was too slow
+B: the acting was not good
+C: the plot was hard to follow
+ANSWER: B
+
+--- 5
+AUDIO: Test08_Part01_Question_5.m4a
+CONTEXT: You hear part of a soap opera about life in a school.
+QUESTION: Which character is talking?
+A: a sports teacher
+B: the headteacher
+C: a parent
+ANSWER: B
+
+--- 6
+AUDIO: Test08_Part01_Question_6.m4a
+CONTEXT: You hear a girl talking about a rucksack she's just bought.
+QUESTION: What does she like about it?
+A: It's light.
+B: It's large.
+C: It's waterproof.
+ANSWER: A
+
+--- 7
+AUDIO: Test08_Part01_Question_7.m4a
+CONTEXT: You hear some information about a competition.
+QUESTION: People entering the competition answer a question about
+A: literature.
+B: cinema.
+C: music.
+ANSWER: C
+
+--- 8
+AUDIO: Test08_Part01_Question_8.m4a
+CONTEXT: You hear part of a programme about a holiday destination.
+QUESTION: The presenter is making the point that
+A: mass tourism is spoiling it.
+B: it needs to offer better facilities.
+C: the local inhabitants are leaving.
+ANSWER: A
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear an announcement about a competition for young composers. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test08_Part02_Instructions.m4a | Instructions
+AUDIO: Test08_Part02_Questions.m4a | Recording
+HEADING: Competition for young composers
+
+--- 9
+TEXT: Young composers interested in taking part must send in both their ___ and a recording.
+ANSWER: personal details
+
+--- 10
+TEXT: Participants will then attend what's called ___ led by well-known composers.
+ANSWER: (a) workshop
+
+--- 11
+TEXT: On the day, participants must bring their most recent piece of work as well as their ___ .
+ANSWER: instrument(s)
+
+--- 12
+TEXT: All participants will get help from ___ musicians on the day.
+ANSWER: professional
+
+--- 13
+TEXT: In last year's competition, most participants chose music for the ___ as their favourite style.
+ANSWER: guitar
+
+--- 14
+TEXT: Participants must submit pieces which are no longer than ___ minutes.
+ANSWER: five | 5
+
+--- 15
+TEXT: The judges will be looking for ___ as the most important quality of compositions.
+ANSWER: originality
+
+--- 16
+TEXT: For best results, participants are advised not to compose music on a ___ .
+ANSWER: computer screen | computer
+
+--- 17
+TEXT: Schools and colleges will be informed about the winners by ___ if not before.
+ANSWER: (the) 22nd (of) June | June 22nd | June 22 | 22 June
+
+--- 18
+TEXT: As one of the prizes, winning compositions will be performed at the ___ .
+ANSWER: City Hall
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which people are talking about travel websites. For questions 19 – 23, choose from the list (A – H) what each speaker says about the website they used. There are three extra letters which you do not need to use.
+AUDIO: Test08_Part03_Instructions.m4a | Instructions
+AUDIO: Test08_Part03_Questions.m4a | Recording
+A: It has clear information and is easy to navigate.
+B: I received prompt replies to my email enquiries.
+C: I got my money back when I cancelled a booking.
+D: It's better for some destinations than others.
+E: I was offered the lowest prices on the market.
+F: I wasn't allowed to change my travel plans.
+G: It failed to deliver some services it promised.
+H: I found the feedback from other users useful.
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: G
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: A
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: F
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: B
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: E
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a professional photographer called Jane Thorpe. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test08_Part04_Instructions.m4a | Instructions
+AUDIO: Test08_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: What reason does Jane give for not doing a college photography course?
+A: She couldn't afford the fees.
+B: She feared it might waste her time.
+C: She was following her father's advice.
+ANSWER: B
+
+--- 25
+QUESTION: What does Jane say about the places where she takes her photos?
+A: She doesn't choose them herself.
+B: She does a lot of research into them.
+C: She finds them all equally interesting.
+ANSWER: C
+
+--- 26
+QUESTION: Jane says that up to the year 2004, she
+A: found it difficult to make a living.
+B: lacked a feeling of achievement.
+C: spent too long on single projects.
+ANSWER: B
+
+--- 27
+QUESTION: What gives Jane most pleasure during a photography trip?
+A: encounters with a variety of people
+B: a feeling of freedom she experiences
+C: the thought that others will see her photos
+ANSWER: C
+
+--- 28
+QUESTION: What does Jane like least about her work?
+A: having to do lots of office work
+B: being unable to pursue a hobby
+C: having hardly any social life
+ANSWER: A
+
+--- 29
+QUESTION: Jane believes that a professional photographer should
+A: concentrate on just one area of photography.
+B: hire someone to do the business management.
+C: get feedback from other professionals.
+ANSWER: C
+
+--- 30
+QUESTION: What advice does Jane give amateur photographers?
+A: get plenty of practice
+B: invest in the best available equipment
+C: read technical books on the subject
+ANSWER: A

@@ -1,0 +1,214 @@
+TITLE: Test 6
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test06_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test06_Part01_Question_1.m4a
+CONTEXT: You hear part of a talk by a man who works for a tourist company.
+QUESTION: What is his role in the company?
+A: He trains the guides.
+B: He chooses the destinations.
+C: He designs the advertisements.
+ANSWER: C
+
+--- 2
+AUDIO: Test06_Part01_Question_2.m4a
+CONTEXT: You overhear two people talking about a film.
+QUESTION: Why didn't the man enjoy it?
+A: He was distracted by noise.
+B: His seat was uncomfortable.
+C: The sound volume was too low.
+ANSWER: A
+
+--- 3
+AUDIO: Test06_Part01_Question_3.m4a
+CONTEXT: You hear a woman talking about running in a marathon.
+QUESTION: Why did she decide to run?
+A: She knew it would be good for her level of fitness.
+B: She'd been wanting to do it since her schooldays.
+C: She was too embarrassed to refuse to do it.
+ANSWER: C
+
+--- 4
+AUDIO: Test06_Part01_Question_4.m4a
+CONTEXT: You hear a man talking about an antique calculator.
+QUESTION: What does he say about it?
+A: It's just been stolen.
+B: It's just been found.
+C: It's just been sold.
+ANSWER: C
+
+--- 5
+AUDIO: Test06_Part01_Question_5.m4a
+CONTEXT: You hear a politician talking about facilities for the young in her area.
+QUESTION: In her opinion, what is needed?
+A: a library
+B: a leisure centre
+C: an internet café
+ANSWER: C
+
+--- 6
+AUDIO: Test06_Part01_Question_6.m4a
+CONTEXT: You overhear a woman talking about a full-time job in a theatre.
+QUESTION: She decided not to apply for it because
+A: she was used to working part time.
+B: she would have had to work evenings.
+C: she felt she lacked the right qualifications.
+ANSWER: B
+
+--- 7
+AUDIO: Test06_Part01_Question_7.m4a
+CONTEXT: You hear a comedian talking about the 'laughter workshops' he organises.
+QUESTION: He wants to teach the participants how to
+A: make friends more easily.
+B: become more self-confident.
+C: help others overcome problems.
+ANSWER: B
+
+--- 8
+AUDIO: Test06_Part01_Question_8.m4a
+CONTEXT: You hear a woman talking about learning to fly a plane.
+QUESTION: How did she feel during her first lesson?
+A: alarmed by the way the plane moved
+B: relieved that it seemed relatively easy
+C: confused by the instructor's comments
+ANSWER: B
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear a man called Darren Howarth giving a presentation about his work as what's called a carbon coach. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test06_Part02_Instructions.m4a | Instructions
+AUDIO: Test06_Part02_Questions.m4a | Recording
+HEADING: The carbon coach
+
+--- 9
+TEXT: As a carbon coach, Darren works full-time as a ___ with various clients.
+ANSWER: consultant
+
+--- 10
+TEXT: Darren trained to be an ___ before becoming a carbon coach.
+ANSWER: ecologist
+
+--- 11
+TEXT: When assessing a family's carbon footprint, Darren begins by looking at their ___ .
+ANSWER: bills
+
+--- 12
+TEXT: Darren uses something called a ___ to see how much electricity things use.
+ANSWER: carbon meter
+
+--- 13
+TEXT: Darren points out that ___ can help pay for roof insulation.
+ANSWER: (the) government
+
+--- 14
+TEXT: Darren feels that using ___ of the old type is the worst waste of energy he sees.
+ANSWER: light bulbs | lightbulbs
+
+--- 15
+TEXT: Darren helped to reduce a band's carbon footprint at ___ as well as on its recordings.
+ANSWER: (its) concerts | their concerts
+
+--- 16
+TEXT: Darren mentions a type of green home called an ___ .
+ANSWER: earth(-)ship | earth ship
+
+--- 17
+TEXT: The new green home uses both the sun and ___ to produce electricity.
+ANSWER: (the) wind (power)
+
+--- 18
+TEXT: Darren suggests buying a ___ , which gives more information about the new green home.
+ANSWER: handbook | hand book
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which people are talking about the sport of hillwalking. For questions 19 – 23, choose from the list (A – H) the reason each person gives for taking up the sport. There are three extra letters which you do not need to use.
+AUDIO: Test06_Part03_Instructions.m4a | Instructions
+AUDIO: Test06_Part03_Questions.m4a | Recording
+A: Other sports had failed to improve my fitness.
+B: I had plans to do some serious climbing later on.
+C: My ambition was to lead hillwalking groups.
+D: I was hoping it would solve a health problem I had.
+E: I wanted to be able to enjoy hillwalking with other people.
+F: I realised it would be more fun than other sporting activities.
+G: My trainer advised me to give it a try.
+H: I heard it was a good way of making new friends.
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: E
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: F
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: A
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: B
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: D
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a woman called Jennie Thorpe, who is a trapeze artist in a circus. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test06_Part04_Instructions.m4a | Instructions
+AUDIO: Test06_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: Jennie got her present job when her manager saw her performing at
+A: a gymnastics competition.
+B: a circus school.
+C: a ballet show.
+ANSWER: B
+
+--- 25
+QUESTION: Why does Jennie feel a need to practise just after the end of a show?
+A: She's able to do more difficult things then.
+B: She's too tense to be able to relax immediately.
+C: She's able to sleep better afterwards.
+ANSWER: A
+
+--- 26
+QUESTION: What does Jennie say about earning a living as a trapeze artist?
+A: It's hard if you have no contract.
+B: It's unlikely after a certain age.
+C: It's difficult for most performers.
+ANSWER: B
+
+--- 27
+QUESTION: According to Jennie, what distinguishes great trapeze artists from the rest?
+A: They have the lightest bodies.
+B: They perform without a safety net.
+C: They have an ability to keep calm.
+ANSWER: C
+
+--- 28
+QUESTION: What does Jennie find the most difficult thing to get used to?
+A: having to get up early every day
+B: damaging her hands on the trapeze
+C: feeling pain in her muscles
+ANSWER: C
+
+--- 29
+QUESTION: In Jennie's opinion, circus skills have helped some school students by
+A: making them physically stronger.
+B: increasing their ability to study.
+C: improving their social interaction.
+ANSWER: B
+
+--- 30
+QUESTION: What does Jennie want to do next?
+A: do a training course
+B: get a teaching job
+C: open a circus school
+ANSWER: A

@@ -1,0 +1,214 @@
+TITLE: Test 4
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test04_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test04_Part01_Question_1.m4a
+CONTEXT: You hear part of a programme about music in schools.
+QUESTION: Why are fewer children joining school choirs?
+A: They are unwilling to sing in public.
+B: Their parents don't encourage them to sing.
+C: Their teachers lack the necessary musical skills.
+ANSWER: C
+
+--- 2
+AUDIO: Test04_Part01_Question_2.m4a
+CONTEXT: You hear two friends talking about evening classes.
+QUESTION: Why did the girl decide to register for a photography course?
+A: She wanted to take better holiday snaps.
+B: She thought it would help her in her career.
+C: She needed a relaxing change from her studies.
+ANSWER: C
+
+--- 3
+AUDIO: Test04_Part01_Question_3.m4a
+CONTEXT: You hear two friends talking about a new café.
+QUESTION: What did they both approve of?
+A: the size of the portions
+B: the originality of the food
+C: the efficiency of the service
+ANSWER: B
+
+--- 4
+AUDIO: Test04_Part01_Question_4.m4a
+CONTEXT: You hear part of a programme about exploring underground caves.
+QUESTION: What does the speaker do?
+A: He's an experienced caver.
+B: He's a journalist.
+C: He's a student.
+ANSWER: C
+
+--- 5
+AUDIO: Test04_Part01_Question_5.m4a
+CONTEXT: You hear a woman talking about a job interview.
+QUESTION: What does she say about it?
+A: Some of the questions were unfair.
+B: She felt she was insufficiently prepared.
+C: The interviewers put her under pressure.
+ANSWER: B
+
+--- 6
+AUDIO: Test04_Part01_Question_6.m4a
+CONTEXT: You hear a woman talking about a language course.
+QUESTION: What does she criticise about it?
+A: There are too many students.
+B: Grammar isn't focused on.
+C: It isn't challenging enough.
+ANSWER: C
+
+--- 7
+AUDIO: Test04_Part01_Question_7.m4a
+CONTEXT: You hear part of a podcast on the subject of food.
+QUESTION: The speaker works as
+A: a shop owner.
+B: a cookery writer.
+C: a chef in a restaurant.
+ANSWER: A
+
+--- 8
+AUDIO: Test04_Part01_Question_8.m4a
+CONTEXT: You hear a man talking about moving house.
+QUESTION: After moving to a new area, he felt
+A: worried that he wouldn't see his old friends.
+B: concerned about how his children would adapt.
+C: surprised by how welcoming his new neighbours were.
+ANSWER: A
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear a woman called Rita Lewis giving a presentation about her job as a researcher for a TV programme. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test04_Part02_Instructions.m4a | Instructions
+AUDIO: Test04_Part02_Questions.m4a | Recording
+HEADING: Rita Lewis: TV researcher
+
+--- 9
+TEXT: The subject that Rita studied first at university was ___ .
+ANSWER: biology
+
+--- 10
+TEXT: Before getting her current job, Rita studied a subject called ___ .
+ANSWER: media studies
+
+--- 11
+TEXT: On the day she tells us about, the country where Rita was working was ___ .
+ANSWER: Costa Rica
+
+--- 12
+TEXT: There were a total of ___ people in Rita's team on that day.
+ANSWER: twelve | 12
+
+--- 13
+TEXT: The animal which the presenter called Jamie had to photograph was a sort of ___ .
+ANSWER: (poisonous) frog
+
+--- 14
+TEXT: The camera crew had to film Jamie as he climbed over the edge of a ___ .
+ANSWER: (thirty-metre high) waterfall | (30-metre high) waterfall | thirty metre waterfall | 30 metre waterfall
+
+--- 15
+TEXT: Rita's lunch consisted of sandwiches with ___ in them.
+ANSWER: tuna
+
+--- 16
+TEXT: Jamie had to hold a ___ to help him see the crocodiles as he crossed a river.
+ANSWER: torch
+
+--- 17
+TEXT: A special light which the crew was using, known as a ___ , stopped working.
+ANSWER: sun-gun | sungun | sun gun
+
+--- 18
+TEXT: Rita says that Jamie looks really ___ when you see him crossing the river on the programme.
+ANSWER: scared
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which craft workers are talking about running their own small businesses from home. For questions 19 – 23, choose from the list (A – H) the advice each speaker gives about running such a business. There are three extra letters which you do not need to use.
+AUDIO: Test04_Part03_Instructions.m4a | Instructions
+AUDIO: Test04_Part03_Questions.m4a | Recording
+A: expand your business by advertising locally
+B: don't be discouraged by negative customer feedback
+C: employ family and friends to market your product
+D: spend time organising your workspace properly
+E: increase business by selling online
+F: produce a clear marketing plan for your business
+G: continue to learn in order to perfect your product
+H: pay for expert help if you get into difficulties
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: G
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: D
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: F
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: A
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: E
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a woman called Monica Darcey, who's the author of a best-selling book about gardening. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test04_Part04_Instructions.m4a | Instructions
+AUDIO: Test04_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: Monica says that most people who buy her book
+A: have made mistakes in gardening.
+B: are knowledgeable about gardening.
+C: do not trust professional gardeners.
+ANSWER: A
+
+--- 25
+QUESTION: How did Monica's parents feel about her early interest in gardening?
+A: They were concerned about the effects on her health.
+B: They were worried that she lacked other interests.
+C: They feared her enthusiasm would affect her studies.
+ANSWER: B
+
+--- 26
+QUESTION: Monica applied to work as a gardening journalist because
+A: it would give her an extra source of income.
+B: she'd found the experience of writing rewarding.
+C: there might be opportunities to do some research.
+ANSWER: B
+
+--- 27
+QUESTION: Why did Monica give up her job on a magazine?
+A: She got an offer of work somewhere else.
+B: She didn't get on with other members of staff.
+C: She was not interested in the type of work she was doing.
+ANSWER: C
+
+--- 28
+QUESTION: According to Monica, what makes her gardening books special?
+A: They are written in an entertaining style.
+B: They are aimed at amateur enthusiasts.
+C: They are the result of detailed research.
+ANSWER: A
+
+--- 29
+QUESTION: What does Monica dislike about the photographs in many gardening books?
+A: They reduce the importance of the writer.
+B: They help to sell with poor quality writing.
+C: They show an unrealistic view of their subject.
+ANSWER: C
+
+--- 30
+QUESTION: What makes Monica unsure whether to accept a job on television?
+A: Her publisher may disapprove of it.
+B: It may make her suddenly famous.
+C: She would have less time for writing.
+ANSWER: B

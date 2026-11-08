@@ -1,0 +1,214 @@
+TITLE: Test 1
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test01_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test01_Part01_Question_1.m4a
+CONTEXT: You hear a woman recommending a campsite.
+QUESTION: Why does she recommend it?
+A: It's close to tourist attractions.
+B: It's in an area of natural beauty.
+C: It has a wide range of facilities.
+ANSWER: B
+
+--- 2
+AUDIO: Test01_Part01_Question_2.m4a
+CONTEXT: You hear two friends talking about global warming.
+QUESTION: How does the woman feel about it?
+A: pessimistic about the future
+B: surprised at the effects it's having
+C: unconvinced that there's a problem
+ANSWER: B
+
+--- 3
+AUDIO: Test01_Part01_Question_3.m4a
+CONTEXT: You hear a young couple talking about moving to the country.
+QUESTION: The man objects to the idea because
+A: he wouldn't be able to work there.
+B: he'd miss the facilities of the city.
+C: he wouldn't be near to his friends.
+ANSWER: B
+
+--- 4
+AUDIO: Test01_Part01_Question_4.m4a
+CONTEXT: You hear a part of a radio programme about food.
+QUESTION: Why should listeners call the programme?
+A: to take part in a recipe competition
+B: to find out about a cookery course
+C: to ask questions about cooking
+ANSWER: C
+
+--- 5
+AUDIO: Test01_Part01_Question_5.m4a
+CONTEXT: You hear the beginning of a programme about college canteens.
+QUESTION: What point is being made about them?
+A: The choice of food has improved.
+B: Students like the food on offer there.
+C: Teachers complain about the quality of the food.
+ANSWER: A
+
+--- 6
+AUDIO: Test01_Part01_Question_6.m4a
+CONTEXT: You hear a young woman talking about her career.
+QUESTION: She accepted a job in a bookshop because
+A: she needed a steady income.
+B: she thought it would be enjoyable.
+C: she hoped to improve certain skills.
+ANSWER: C
+
+--- 7
+AUDIO: Test01_Part01_Question_7.m4a
+CONTEXT: You hear part of a programme about a clothes designer.
+QUESTION: What does the woman like about the clothes he designs?
+A: They are practical.
+B: They are colourful.
+C: They are original.
+ANSWER: C
+
+--- 8
+AUDIO: Test01_Part01_Question_8.m4a
+CONTEXT: You hear a discussion about the sport of snow-kiting.
+QUESTION: What does the man say about it?
+A: It's easier to learn than other winter sports.
+B: It's more dangerous than other winter sports.
+C: It requires less equipment than other winter sports.
+ANSWER: A
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear a programme about a boy called Michael who crossed the Atlantic in a sailing boat. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test01_Part02_Instructions.m4a | Instructions
+AUDIO: Test01_Part02_Questions.m4a | Recording
+HEADING: Sailing solo across the Atlantic
+
+--- 9
+TEXT: To achieve his record, Michael had to sail a total of ___ kilometres without any help.
+ANSWER: 5,600 | five thousand six hundred | five thousand, six hundred
+
+--- 10
+TEXT: Michael helped to design his boat which was called ___ .
+ANSWER: Cheeky Monkey
+
+--- 11
+TEXT: Michael and his father were concerned in case any ___ came too close to them.
+ANSWER: (large) ships | big ships
+
+--- 12
+TEXT: All the food that Michael took on his voyage was in ___ bought at the supermarket.
+ANSWER: tins
+
+--- 13
+TEXT: The type of food which Michael missed most on the trip was ___ .
+ANSWER: (hot) toast
+
+--- 14
+TEXT: Michael enjoyed using his ___ to keep track of what his father was doing.
+ANSWER: binoculars
+
+--- 15
+TEXT: Michael's favourite pastimes on the boat were using his sister's ___ and reading.
+ANSWER: iPod
+
+--- 16
+TEXT: Michael got a fright when a ___ landed on him.
+ANSWER: flying fish
+
+--- 17
+TEXT: The name of the charity that Michael is raising funds for is ___ .
+ANSWER: Children in Need
+
+--- 18
+TEXT: When Michael sails round the world, he plans to take ___ with him in case he feels homesick.
+ANSWER: photo(graph)s
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which people are talking about cookery courses. For questions 19 – 23, choose from the list (A – H) what each speaker says about the course they took. There are three extra letters which you do not need to use.
+AUDIO: Test01_Part03_Instructions.m4a | Instructions
+AUDIO: Test01_Part03_Questions.m4a | Recording
+A: It helped me to renew my enthusiasm for cooking.
+B: It gave me ideas for improving my own recipes.
+C: It took into account the fact that I wasn't a beginner.
+D: It required me to do things rather than just watch.
+E: It gave me skills I wish I'd acquired earlier in life.
+F: It included an unexpected search for ingredients.
+G: It focused too much on one particular type of food.
+H: It taught me how to use the latest kitchen equipment.
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: C
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: F
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: A
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: E
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: D
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a fashion designer called Pamela Green. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test01_Part04_Instructions.m4a | Instructions
+AUDIO: Test01_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: What helped Pamela to decide to become a fashion designer?
+A: working as an assistant in a fashion shop
+B: doing research into the fashion industry
+C: attending a course on fashion design
+ANSWER: B
+
+--- 25
+QUESTION: What does Pamela say about having a degree in fashion?
+A: It's essential for promotion.
+B: It's evidence of your ability.
+C: It guarantees you a better income.
+ANSWER: B
+
+--- 26
+QUESTION: Pamela says that when starting your own fashion label, it's most important to
+A: enjoy the creative process.
+B: contact shops that might sell it.
+C: have a business plan.
+ANSWER: C
+
+--- 27
+QUESTION: Where does Pamela usually find inspiration for her fashion designs?
+A: in the work of other designers
+B: in the styles of other countries
+C: in the clothes her friends wear
+ANSWER: C
+
+--- 28
+QUESTION: What aspect of her work does Pamela find most difficult to deal with?
+A: the pressure to meet deadlines
+B: the failure of some of her designs
+C: the need to attend fashion shows
+ANSWER: A
+
+--- 29
+QUESTION: According to Pamela, successful designers need to be able to
+A: predict future fashions.
+B: recognise all past styles.
+C: get their designs published.
+ANSWER: B
+
+--- 30
+QUESTION: What advice does Pamela have for people who want a career in fashion?
+A: be aware of the options available
+B: don't be afraid of sudden fame
+C: learn from your own errors
+ANSWER: A

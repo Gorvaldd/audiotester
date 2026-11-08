@@ -1,0 +1,218 @@
+TITLE: Test 3
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test03_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test03_Part01_Question_1.m4a
+CONTEXT: You hear a woman talking about the final episode of a TV series.
+QUESTION: What does she say about it?
+A: It wasn't as good as previous episodes.
+B: It failed to attract large number of viewers.
+C: It delivered an unexpected end to the story.
+ANSWER: A
+
+--- 2
+AUDIO: Test03_Part01_Question_2.m4a
+CONTEXT: You hear a dance club DJ talking about his work.
+QUESTION: What makes him unhappy?
+A: being asked to play old-fashioned types of music
+B: being asked to play the same track more than once
+C: being asked to play the bands which he dislikes most
+ANSWER: B
+
+--- 3
+AUDIO: Test03_Part01_Question_3.m4a
+CONTEXT: You hear a man talking about an art exhibition.
+QUESTION: What does he criticise about it?
+A: the way the paintings were displayed
+B: the number of paintings in the exhibition
+C: the lack of information about the paintings
+ANSWER: A
+
+--- 4
+AUDIO: Test03_Part01_Question_4.m4a
+CONTEXT: You hear a radio announcement about a job vacancy.
+QUESTION: What skill must you have if you want the job?
+A: an ability to deal with complaints
+B: an ability to work with numbers
+C: an ability to write well
+ANSWER: C
+
+--- 5
+AUDIO: Test03_Part01_Question_5.m4a
+CONTEXT: You hear part of an interview with a restaurant owner.
+QUESTION: What is attracting customers to the restaurant?
+A: a website
+B: magazine reviews
+C: personal recommendations
+ANSWER: A
+
+--- 6
+AUDIO: Test03_Part01_Question_6.m4a
+CONTEXT: You hear a young man talking about a recent trip.
+QUESTION: What was the main benefit of the trip for him?
+A: He became more independent.
+B: He learnt a foreign language.
+C: He made new friends.
+ANSWER: A
+
+--- 7
+AUDIO: Test03_Part01_Question_7.m4a
+CONTEXT: You hear a sports journalist talking about an article she's written.
+QUESTION: What is the article about?
+A: the history of sport
+B: the benefits of sports
+C: the lack of sports facilities
+ANSWER: C
+
+--- 8
+AUDIO: Test03_Part01_Question_8.m4a
+CONTEXT: You hear a young man talking about going camping.
+QUESTION: What is his advice?
+A: take a good variety of foodstuffs
+B: go prepared for bad weather
+C: choose the area carefully
+ANSWER: B
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear part of a programme about the history of roller skating. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test03_Part02_Instructions.m4a | Instructions
+AUDIO: Test03_Part02_Questions.m4a | Recording
+HEADING: History of roller skating
+
+--- 9
+TEXT: The country where the first roller skates were made was ___ .
+ANSWER: Holland
+
+--- 10
+TEXT: In 1760, John Merlin went to a ball in London playing a ___ whilst on roller skates.
+ANSWER: violin
+
+--- 11
+TEXT: Unfortunately, John Merlin injured himself when he broke a ___ at a ball.
+ANSWER: (large) mirror
+
+--- 12
+TEXT: In Germany, roller skating was used in a ballet called ___ .
+ANSWER: Winter Pleasures
+
+--- 13
+TEXT: James Plimpton's invention helped roller skaters to control the ___ of their skates.
+ANSWER: direction
+
+--- 14
+TEXT: The first team sport to be played on roller skates was ___ .
+ANSWER: (roller) hockey
+
+--- 15
+TEXT: In Detroit in 1937, the first ___ in the sport took place.
+ANSWER: championships | championship
+
+--- 16
+TEXT: The use of plastics meant that both the ___ and ___ of roller skates improved.
+ANSWER: design
+ANSWER: performance
+ANY_ORDER: yes
+
+--- 17
+TEXT: The musical Starlight Express was seen by as many as ___ in London.
+ANSWER: eight million | 8,000,000 | 8 million | eight million people | 8 million people
+
+--- 18
+TEXT: The speaker says that modern roller skates are now ___ and ___ than ever before.
+ANSWER: lighter
+ANSWER: safer
+ANY_ORDER: yes
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which students are talking about their first year at university. For questions 19 – 23, choose from the list (A – H) what each student says. There are three extra letters which you do not need to use.
+AUDIO: Test03_Part03_Instructions.m4a | Instructions
+AUDIO: Test03_Part03_Questions.m4a | Recording
+A: I had to face some criticism when I chose a subject to study.
+B: I was able to change an earlier decision about my studies.
+C: I'm pleased that I'm able to combine studying with a job.
+D: I had to be careful when choosing which college to study at.
+E: It took time to get used to living in student accommodation.
+F: I'm happy to have an active social life while at college.
+G: I had to give up a good job to concentrate on my studies.
+H: I was surprised to meet students from my old school here.
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: D
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: B
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: C
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: A
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: F
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with the film actor, Mikey Standish. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test03_Part04_Instructions.m4a | Instructions
+AUDIO: Test03_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: Mikey feels it is unfair when people suggest that
+A: some types of role are unsuitable for him.
+B: he's trying to imitate other well-known actors.
+C: he always plays rather similar characters.
+ANSWER: B
+
+--- 25
+QUESTION: How did Mikey feel while playing the character called Simon?
+A: sorry that he had decided to accept it
+B: confident that he knew Simon's character
+C: worried that Simon was so similar to himself
+ANSWER: C
+
+--- 26
+QUESTION: What kind of role does Mikey now refuse to play?
+A: weak people who become heroes
+B: the male lead in romantic films
+C: characters who do not change at all
+ANSWER: A
+
+--- 27
+QUESTION: Why did Mikey decide to go to drama school?
+A: It had been a long-held ambition.
+B: He felt he had no other option.
+C: A film director suggested it.
+ANSWER: B
+
+--- 28
+QUESTION: Mikey recommends that young people interested in acting go to drama school because
+A: it allows them to compare their skills with others.
+B: it teaches them to be competitive in the real world.
+C: it helps them decide whether acting is right for them.
+ANSWER: C
+
+--- 29
+QUESTION: What does Mikey say about his celebrity status?
+A: It was hard to get used to at first.
+B: It's making him increasingly uncomfortable.
+C: It has tended to come about gradually.
+ANSWER: C
+
+--- 30
+QUESTION: What are Mikey's immediate plans for the future?
+A: to take a break from film acting
+B: to write the script for a film
+C: to direct a film himself
+ANSWER: A

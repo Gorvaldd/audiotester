@@ -1,0 +1,214 @@
+TITLE: Test 5
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test05_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test05_Part01_Question_1.m4a
+CONTEXT: You hear the weather forecast.
+QUESTION: What will the weather be like on Sunday?
+A: windier than on Saturday
+B: colder than on Saturday
+C: rainier than on Saturday
+ANSWER: C
+
+--- 2
+AUDIO: Test05_Part01_Question_2.m4a
+CONTEXT: You hear a man talking to his trainer at the gym.
+QUESTION: What is he doing?
+A: apologising for missing a session
+B: explaining how an injury happened
+C: asking to do something less challenging
+ANSWER: C
+
+--- 3
+AUDIO: Test05_Part01_Question_3.m4a
+CONTEXT: You hear an advertisement.
+QUESTION: What is being advertised?
+A: a shop
+B: a publication
+C: a TV programme
+ANSWER: C
+
+--- 4
+AUDIO: Test05_Part01_Question_4.m4a
+CONTEXT: You hear part of a soap opera.
+QUESTION: How does the woman feel?
+A: nervous about something
+B: guilty about something
+C: bored by something
+ANSWER: B
+
+--- 5
+AUDIO: Test05_Part01_Question_5.m4a
+CONTEXT: You hear part of a programme on the subject of fashion.
+QUESTION: What is the presenter's purpose?
+A: to criticise certain attitudes
+B: to complain about something
+C: to recommend something to us
+ANSWER: C
+
+--- 6
+AUDIO: Test05_Part01_Question_6.m4a
+CONTEXT: You hear a woman talking about the flat she lives in.
+QUESTION: Why is she thinking of selling it?
+A: There's too little storage space.
+B: She's disturbed by street noise.
+C: It's a long way from her place of work.
+ANSWER: A
+
+--- 7
+AUDIO: Test05_Part01_Question_7.m4a
+CONTEXT: You hear an announcement about a future wildlife event.
+QUESTION: The event will help the protection of wildlife by
+A: raising money.
+B: informing the public.
+C: recruiting volunteers.
+ANSWER: B
+
+--- 8
+AUDIO: Test05_Part01_Question_8.m4a
+CONTEXT: You hear a couple talking about computer games.
+QUESTION: The man likes them because
+A: they help him to relax after work.
+B: they remind him of his childhood.
+C: they make him more self-confident.
+ANSWER: C
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear a student called Jake Townsend giving a presentation about a type of bird called a peacock. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test05_Part02_Instructions.m4a | Instructions
+AUDIO: Test05_Part02_Questions.m4a | Recording
+HEADING: The Peacock
+
+--- 9
+TEXT: Jake mentions that the peacock's tail is said to look similar to a ___ .
+ANSWER: fan
+
+--- 10
+TEXT: The original home of the blue peacock is in ___ .
+ANSWER: India
+
+--- 11
+TEXT: Jake explains that peacocks were first kept by people as long as ___ years ago.
+ANSWER: four thousand | 4,000
+
+--- 12
+TEXT: Jake describes the peacock's ___ as long and thin.
+ANSWER: neck
+
+--- 13
+TEXT: The coloured spots on the peacock's tail are known as ___ .
+ANSWER: eyes
+
+--- 14
+TEXT: Jake says that the female peahen is mostly ___ in colour.
+ANSWER: brown
+
+--- 15
+TEXT: In English, some people are described as being as ___ as a peacock.
+ANSWER: proud
+
+--- 16
+TEXT: In the wild, peacocks usually live close to ___ in a forest.
+ANSWER: water
+
+--- 17
+TEXT: Jake tells us that peacocks usually spend time in trees when they want to ___ .
+ANSWER: sleep
+
+--- 18
+TEXT: At Peacock Paradise in Malaysia, you can see ___ as well as birds.
+ANSWER: crocodiles
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which writers are talking about their first novels. For questions 19 – 23, choose from the list (A – H) what each speaker says about writing their first novel. There are three extra letters which you do not need to use.
+AUDIO: Test05_Part03_Instructions.m4a | Instructions
+AUDIO: Test05_Part03_Questions.m4a | Recording
+A: It wasn't as difficult as I thought it would be.
+B: My previous style of writing wasn't suitable for it.
+C: I was determined to make it true to life.
+D: I believe I should've been paid more to write it.
+E: It benefited from a course of study I attended.
+F: I was surprised to be asked to write it.
+G: I couldn't have written it without the support of my parents.
+H: I learnt some of the skills I needed in a previous job.
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: E
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: B
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: F
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: C
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: H
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a man called David Shaw who is a professional ceramicist, making pottery objects out of clay. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test05_Part04_Instructions.m4a | Instructions
+AUDIO: Test05_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: What does David say is an absolute requirement for people considering a career in ceramics?
+A: They must feel a passion for it.
+B: They must be physically very fit.
+C: They must have enough patience.
+ANSWER: C
+
+--- 25
+QUESTION: David says it took him a long time to
+A: develop his own style.
+B: make his business profitable.
+C: decide to work at ceramics full-time.
+ANSWER: B
+
+--- 26
+QUESTION: What does David find most enjoyable about his job?
+A: the fact that the results are unpredictable
+B: the feedback he gets from his customers
+C: the knowledge that he creates useful pieces
+ANSWER: A
+
+--- 27
+QUESTION: What does David say he finds particularly difficult?
+A: doing administrative tasks
+B: finding time to research new ideas
+C: finishing his commissions on time
+ANSWER: B
+
+--- 28
+QUESTION: What reason does David give for his recent success as a ceramicist?
+A: He's been luckier than other ceramicists.
+B: He's put in more effort than in the past.
+C: He's started to follow certain fashions.
+ANSWER: A
+
+--- 29
+QUESTION: How does David feel about the possibility of teaching ceramics?
+A: He feels unprepared for it.
+B: He fears it might distract him.
+C: He's unsure about finding time.
+ANSWER: A
+
+--- 30
+QUESTION: David advises people who want a career in ceramics to
+A: talk to established ceramicists.
+B: go to ceramics exhibitions.
+C: attend a ceramics course.
+ANSWER: C

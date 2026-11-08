@@ -1,0 +1,216 @@
+TITLE: Test 2
+
+=== PART 1 ===
+TYPE: choice
+INSTRUCTIONS: You will hear people talking in eight different situations. For questions 1 – 8, choose the best answer (A, B or C).
+AUDIO: Test02_Part01_Instructions.m4a | Instructions
+
+--- 1
+AUDIO: Test02_Part01_Question_1.m4a
+CONTEXT: You hear a man talking about a ceramics course he attended.
+QUESTION: What aspect of the course did he find unsatisfactory?
+A: the level of support from the staff
+B: the quality of the materials
+C: the cost for students
+ANSWER: A
+
+--- 2
+AUDIO: Test02_Part01_Question_2.m4a
+CONTEXT: On a radio programme, you hear some information about a future guest.
+QUESTION: What will he be talking about?
+A: organising a mountain holiday.
+B: learning mountain climbing skills.
+C: buying mountaineering equipment.
+ANSWER: C
+
+--- 3
+AUDIO: Test02_Part01_Question_3.m4a
+CONTEXT: You hear part of a talk about how to look fit and healthy.
+QUESTION: What is the speaker's advice?
+A: check your weight regularly
+B: build up your muscles
+C: avoid certain foods
+ANSWER: B
+
+--- 4
+AUDIO: Test02_Part01_Question_4.m4a
+CONTEXT: You overhear two college students talking about applying for a weekend job.
+QUESTION: What do they agree about?
+A: It would be an enjoyable thing to do.
+B: It would be useful experience for the future.
+C: It would help them with their college expenses.
+ANSWER: A
+
+--- 5
+AUDIO: Test02_Part01_Question_5.m4a
+CONTEXT: You hear two friends talking about transport.
+QUESTION: The woman has decided to use a bike instead of a car because
+A: she hopes the exercise will improve her health.
+B: she is concerned about the environment.
+C: she can no longer afford the cost.
+ANSWER: C
+
+--- 6
+AUDIO: Test02_Part01_Question_6.m4a
+CONTEXT: You hear a woman talking about a sport.
+QUESTION: What is she doing?
+A: explaining something to us
+B: warning us about something
+C: recommending something to us
+ANSWER: A
+
+--- 7
+AUDIO: Test02_Part01_Question_7.m4a
+CONTEXT: You hear a weather forecast on the radio.
+QUESTION: How will the weather change tomorrow?
+A: It will get colder.
+B: It will get sunnier.
+C: It will get windier.
+ANSWER: B
+
+--- 8
+AUDIO: Test02_Part01_Question_8.m4a
+CONTEXT: You hear a news report about a theatre.
+QUESTION: What does the reporter say about it?
+A: It is offering an impressive programme.
+B: It will be closed down in the near future.
+C: It has received a grant for improvements.
+ANSWER: B
+
+=== PART 2 ===
+TYPE: gap
+INSTRUCTIONS: You will hear a student giving a presentation on the subject of the Loch Ness Monster. For questions 9 – 18, complete the sentences with a word or short phrase.
+AUDIO: Test02_Part02_Instructions.m4a | Instructions
+AUDIO: Test02_Part02_Questions.m4a | Recording
+HEADING: The Loch Ness Monster
+
+--- 9
+TEXT: The head of the Loch Ness Monster has been compared to that of a ___ .
+ANSWER: sheep
+
+--- 10
+TEXT: The first published photographic image of the monster is known as the ___ picture.
+ANSWER: surgeon's | surgeons
+
+--- 11
+TEXT: People argued that a picture taken in 1960 actually showed a ___ but experts proved them wrong.
+ANSWER: boat
+
+--- 12
+TEXT: Tim Dinsdale realised that most monster sightings occurred on days when the weather was ___ .
+ANSWER: fine | good
+
+--- 13
+TEXT: Most eyewitnesses say that they have no interest in getting ___ when they report sightings.
+ANSWER: publicity
+
+--- 14
+TEXT: In 1968, an underwater investigation used sonar equipment instead of ___ to try and find the monster.
+ANSWER: photography
+
+--- 15
+TEXT: An attempt to find the monster using a ___ failed in 1969 because the water was so dirty.
+ANSWER: submarine
+
+--- 16
+TEXT: The idea of using a group of ___ to help with the search proved too complicated.
+ANSWER: dolphins
+
+--- 17
+TEXT: Dr Rines' underwater picture of 1972 seemed to show the ___ of a large sea animal.
+ANSWER: flipper
+
+--- 18
+TEXT: The aim of the latest research project is to study all the ___ and ___ living in Loch Ness.
+ANSWER: plants
+ANSWER: animals
+ANY_ORDER: yes
+
+=== PART 3 ===
+TYPE: match
+INSTRUCTIONS: You will hear five short extracts in which people are talking about a concert they went to. For questions 19 – 23, choose from the list (A – H) the opinion each speaker expresses. There are three extra letters which you do not need to use.
+AUDIO: Test02_Part03_Instructions.m4a | Instructions
+AUDIO: Test02_Part03_Questions.m4a | Recording
+A: The performers got a better reception than they deserved.
+B: These musicians are at their best in live performances.
+C: It improved after a disappointing beginning.
+D: I enjoyed the band's choice of material.
+E: I expected it to go on for longer than it did.
+F: I'd like to have seen more bands for the price I paid.
+G: I was annoyed by the behaviour of some band members.
+H: I was pleased the event was raising money for a good cause.
+
+--- 19
+QUESTION: Speaker 1
+ANSWER: H
+
+--- 20
+QUESTION: Speaker 2
+ANSWER: C
+
+--- 21
+QUESTION: Speaker 3
+ANSWER: A
+
+--- 22
+QUESTION: Speaker 4
+ANSWER: D
+
+--- 23
+QUESTION: Speaker 5
+ANSWER: B
+
+=== PART 4 ===
+TYPE: choice
+INSTRUCTIONS: You will hear an interview with a man called Patrick Shaw who works as a pilot for a company which organises hot-air balloon trips. For questions 24 – 30, choose the best answer (A, B or C).
+AUDIO: Test02_Part04_Instructions.m4a | Instructions
+AUDIO: Test02_Part04_Questions.m4a | Recording
+
+--- 24
+QUESTION: According to Patrick, what worries people most when they take a balloon trip?
+A: how far the wind will take them
+B: whether they will hit some obstacle
+C: what the experience of landing will be like
+ANSWER: C
+
+--- 25
+QUESTION: Why does Patrick recommend joining the ground crew?
+A: It's the best way of learning about balloons.
+B: It provides some experience of flying a balloon.
+C: It can be a fun way of earning extra income.
+ANSWER: A
+
+--- 26
+QUESTION: What makes the job of the ground crew particularly difficult?
+A: poor communication with the pilot
+B: unpredictable weather conditions
+C: the nervousness of the passengers
+ANSWER: B
+
+--- 27
+QUESTION: Patrick says that all members of the ground crew must
+A: be physically strong.
+B: have good social skills.
+C: know their area well.
+ANSWER: B
+
+--- 28
+QUESTION: Patrick finds it unsatisfactory when new crew members
+A: fail to cooperate with each other.
+B: distract him with unnecessary questions.
+C: don't accept the way things should be done.
+ANSWER: C
+
+--- 29
+QUESTION: What does Patrick say about balloon competitions?
+A: It is often difficult to determine who has won.
+B: The finishing target area is often unmarked.
+C: Some competitors are requesting clearer rules.
+ANSWER: A
+
+--- 30
+QUESTION: Patrick thinks his particular skills as a pilot result from
+A: the way in which he was trained.
+B: the fact that he's adventurous by nature.
+C: the amount of experience he has.
+ANSWER: C
