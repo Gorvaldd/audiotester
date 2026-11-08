@@ -210,7 +210,7 @@
         currentAudio = audio;
       });
       audio.addEventListener("error", function () {
-        err.textContent = "Файл не найден: " + src;
+        err.textContent = "File not found: " + src;
         err.style.display = "block";
       });
       return el("div", { class: "player" }, [
@@ -225,13 +225,13 @@
     crumb.textContent = "";
     document.title = "B2 First · Listening Practice";
     app.innerHTML = "";
-    app.appendChild(el("p", { class: "muted", text: "Ищу тесты…" }));
+    app.appendChild(el("p", { class: "muted", text: "Looking for tests…" }));
     discover().then(function (tests) {
       app.innerHTML = "";
       app.appendChild(el("h1", { class: "home-title", text: "Listening" }));
-      app.appendChild(el("p", { class: "home-sub", text: "Выберите тест. В каждом 4 части и 30 вопросов." }));
+      app.appendChild(el("p", { class: "home-sub", text: "Choose a test. Each test has 4 parts and 30 questions." }));
       if (!tests.length) {
-        app.appendChild(el("div", { class: "error-box", text: "Не найдено ни одного теста в папке tests/ (ожидаются файлы Test01.txt, Test02.txt …)." }));
+        app.appendChild(el("div", { class: "error-box", text: "No tests found in the tests/ folder (expected files Test01.txt, Test02.txt …)." }));
         return;
       }
       var grid = el("div", { class: "test-grid" });
@@ -241,13 +241,13 @@
         var pill = null;
         if (saved) {
           var good = saved.score / saved.total >= 0.6;
-          pill = el("span", { class: "pill " + (good ? "ok" : "bad"), text: "Результат: " + saved.score + "/" + saved.total });
+          pill = el("span", { class: "pill " + (good ? "ok" : "bad"), text: "Score: " + saved.score + "/" + saved.total });
         } else if (draft && Object.keys(draft).length) {
-          pill = el("span", { class: "pill", text: "В процессе" });
+          pill = el("span", { class: "pill", text: "In progress" });
         }
         grid.appendChild(el("a", { class: "test-card", href: "#/test/" + encodeURIComponent(t.id) }, [
           el("h3", { text: t.title }),
-          el("div", { class: "meta", text: t.parts.length + " части · " + t.total + " вопросов" }),
+          el("div", { class: "meta", text: t.parts.length + " parts · " + t.total + " questions" }),
           pill ? el("div", { class: "score-pill" }, [pill]) : null
         ]));
       });
@@ -257,12 +257,12 @@
 
   function renderTest(id, partIndex) {
     app.innerHTML = "";
-    app.appendChild(el("p", { class: "muted", text: "Загрузка…" }));
+    app.appendChild(el("p", { class: "muted", text: "Loading…" }));
     loadTest(id).then(function (test) {
       buildTestView(test, partIndex || 0);
     }, function () {
       app.innerHTML = "";
-      app.appendChild(el("div", { class: "error-box", text: "Не удалось загрузить tests/" + id + ".txt" }));
+      app.appendChild(el("div", { class: "error-box", text: "Could not load tests/" + id + ".txt" }));
     });
   }
 
@@ -458,11 +458,11 @@
       });
       if (submitted) {
         progressEl.innerHTML = "";
-        progressEl.appendChild(document.createTextNode("Результат: "));
+        progressEl.appendChild(document.createTextNode("Score: "));
         progressEl.appendChild(el("b", { text: result.score + " / " + result.total }));
       } else {
         progressEl.innerHTML = "";
-        progressEl.appendChild(document.createTextNode("Отвечено: "));
+        progressEl.appendChild(document.createTextNode("Answered: "));
         progressEl.appendChild(el("b", { text: c.n + " / " + test.total }));
       }
     }
@@ -470,12 +470,12 @@
     function renderButtons() {
       btnRow.innerHTML = "";
       if (submitted) {
-        btnRow.appendChild(el("a", { class: "btn ghost small", href: "#/", text: "Все тесты" }));
-        btnRow.appendChild(el("button", { class: "btn small", type: "button", text: "Пройти заново", onclick: function () {
-          confirmBox("Пройти тест заново?", "Ваши ответы и результат будут удалены.", "Начать заново", reset);
+        btnRow.appendChild(el("a", { class: "btn ghost small", href: "#/", text: "All tests" }));
+        btnRow.appendChild(el("button", { class: "btn small", type: "button", text: "Try again", onclick: function () {
+          confirmBox("Restart this test?", "Your answers and score will be deleted.", "Restart", reset);
         } }));
       } else {
-        btnRow.appendChild(el("button", { class: "btn", type: "button", text: "Сдать", onclick: trySubmit }));
+        btnRow.appendChild(el("button", { class: "btn", type: "button", text: "Submit", onclick: trySubmit }));
       }
     }
 
@@ -483,9 +483,9 @@
       var c = countAnswered();
       var left = test.total - c.n;
       if (left > 0) {
-        confirmBox("Сдать тест?", "Без ответа осталось вопросов: " + left + ". Они будут засчитаны как неверные.", "Сдать", submit);
+        confirmBox("Submit the test?", left + (left === 1 ? " question is" : " questions are") + " still unanswered and will be marked as wrong.", "Submit", submit);
       } else {
-        confirmBox("Сдать тест?", "После сдачи ответы нельзя будет изменить.", "Сдать", submit);
+        confirmBox("Submit the test?", "You won't be able to change your answers after submitting.", "Submit", submit);
       }
     }
 
@@ -540,7 +540,7 @@
             });
             if (!ok) {
               var right = q.answers.map(prettyAnswer).join(q.anyOrder ? "  +  " : "  |  ");
-              q._body.appendChild(el("div", { class: "fb bad", text: "Правильно: " + right + (q.anyOrder ? " (в любом порядке)" : "") }));
+              q._body.appendChild(el("div", { class: "fb bad", text: "Correct answer: " + right + (q.anyOrder ? " (in any order)" : "") }));
             }
           } else {
             var correct = (q.answers[0] || "").trim().toUpperCase();
@@ -550,11 +550,11 @@
               else if (b._letter === ans) b.classList.add("is-wrong");
             });
             if (!ok) {
-              var txt = "Правильно: " + correct;
+              var txt = "Correct answer: " + correct;
               var src = p.type === "match" ? p.options : q.options;
               var o = src.filter(function (x) { return x.letter === correct; })[0];
               if (o) txt += " — " + o.text;
-              if (!ans) txt = "Нет ответа. " + txt;
+              if (!ans) txt = "No answer. " + txt;
               q._body.appendChild(el("div", { class: "fb bad", text: txt }));
             }
           }
@@ -576,7 +576,7 @@
     back.appendChild(el("div", { class: "modal", role: "dialog" }, [
       el("h3", { text: title }), el("p", { text: text }),
       el("div", { class: "btn-row" }, [
-        el("button", { class: "btn ghost", type: "button", text: "Отмена", onclick: close }), okBtn
+        el("button", { class: "btn ghost", type: "button", text: "Cancel", onclick: close }), okBtn
       ])
     ]));
     back.addEventListener("click", function (e) { if (e.target === back) close(); });
